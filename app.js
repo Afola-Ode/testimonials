@@ -29,7 +29,7 @@ const testimonies = [
     {
       id: 4,
       img:
-        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621794/coffee9_l4tf9z.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621814/coffee7_nguyx8.jpg",
       name: "Henry Jones",
       title: "Graphics Designer",
       writeUp:
@@ -38,7 +38,7 @@ const testimonies = [
     {
       id: 5,
       img:
-        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621814/coffee7_nguyx8.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621794/coffee9_l4tf9z.jpg",
       name: "bill anderson",
       title: "Cheif Technical Officer",
       writeUp:
