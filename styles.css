@@ -1,6 +1,7 @@
 body {
   background-color: #f57c00;
-  font-family: "Big Shoulders Display", cursive;
+  font-family: cursive;
+  line-height: 1.5;
 }
 .container {
   position: fixed;
