@@ -2,7 +2,7 @@ const testimonies = [
     {
         id: 1,
         img:
-          "./images/person-1.jpeg",
+          "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621751/person-1_iz1cxe.jpg",
         name: "Grace Teabag",
         title: "CEO",
         writeUp:
@@ -11,7 +11,7 @@ const testimonies = [
     {
       id: 2,
       img:
-        "./images/coffee3.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621757/coffee3_ko9p2c.jpg",
       name: "Fola Dada",
       title: "Managing Director",
       writeUp:
@@ -20,7 +20,7 @@ const testimonies = [
     {
       id: 3,
       img:
-        "./images/coffee4.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621782/coffee4_n6h8gx.jpg",
       name: "Anna Johnson",
       title: "Accountant",
       writeUp:
@@ -29,7 +29,7 @@ const testimonies = [
     {
       id: 4,
       img:
-        "./images/coffee7.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621794/coffee9_l4tf9z.jpg",
       name: "Henry Jones",
       title: "Graphics Designer",
       writeUp:
@@ -38,7 +38,7 @@ const testimonies = [
     {
       id: 5,
       img:
-        "./images/coffee9.jpg",
+        "https://res.cloudinary.com/djp9oacoi/image/upload/v1617621814/coffee7_nguyx8.jpg",
       name: "bill anderson",
       title: "Cheif Technical Officer",
       writeUp:
